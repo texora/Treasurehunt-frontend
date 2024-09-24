@@ -12,7 +12,7 @@
   "dependencies": {
     "@ant-design/icons": "^5.4.0",
     "@aptos-labs/ts-sdk": "^1.18.1",
-    "@aptos-labs/wallet-adapter-react": "^3.5.4",
+    "@aptos-labs/wallet-adapter-react": "^3.6.2",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@fontsource/roboto": "^5.0.13",
